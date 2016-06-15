@@ -4,7 +4,7 @@
 #' bases for a configuration matrix A.  See the references for
 #' details.
 #'
-#' @param A The configuration matrix asdf
+#' @param A The configuration matrix
 #' @param format How the basis (moves) should be returned.  if
 #'   "mat", the moves are returned as the columns of a matrix.
 #' @param dim The dimension to be passed to \code{\link{vec2tab}} if
